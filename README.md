@@ -1,3 +1,4 @@
 # timshoe.github.io
+Personal Website showcasing my education, skills, and background.
 
-Visit www.timhxu.com !
+Please visit www.timhxu.com !
