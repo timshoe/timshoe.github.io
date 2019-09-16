@@ -11,6 +11,9 @@ body {
 
 #testing div {
 	margin-left: 35px;/*or whatever indentation size you want*/
+	color: #74808a;
+    font-size: 0.9em;
+    margin: 0;
 }
 
 body.active {
@@ -547,7 +550,7 @@ footer {
 	top: 50%;
 	transform: translateY(-50%);
 	margin-left: 300px;
-	padding: 15px
+	padding: 5px
 }
 
 .project-info h3 {
